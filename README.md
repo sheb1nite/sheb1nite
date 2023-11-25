@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shebin Shammy</h1>
-<h3 align="center">A passionate data science enthusiast.</h3>
+<h3 <b> align="center">A passionate data science enthusiast.</b> </h3>
 
-
-<p align="left"> <a href="https://twitter.com/sheb1d" target="blank"><img src="https://img.shields.io/twitter/follow/sheb1d?logo=twitter&style=for-the-badge" alt="sheb1d" /></a> </p>
 
 - 🔭 I’m currently embarking on **a transformative journey into the realm of Data Science.**
 
