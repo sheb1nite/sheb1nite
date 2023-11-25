@@ -8,6 +8,16 @@
 
 <p align="left"> <a href="https://twitter.com/sheb1d" target="blank"><img src="https://img.shields.io/twitter/follow/sheb1d?logo=twitter&style=for-the-badge" alt="sheb1d" /></a> </p>
 
+- 🔭 I’m currently embarking on **a transformative journey into the realm of Data Science.**
+
+- 🌱 I’m currently exploring **NLP and Data Analysis with MS Excel.**
+
+- 🥅 I am familiar **with Python, SQL, Power BI, Tableau.**
+
+- 🤝 I’m looking to collaborate **with fellow Data Science professionals.**
+
+- ⚡Goals: **Improve Python and ML fundamentals.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/shebin.dev.voyage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="shebin.dev.voyage" height="30" width="40" /></a>
