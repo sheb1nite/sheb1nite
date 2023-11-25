@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shebin Shammy</h1>
-<h3 align="center"> <b> A passionate data science enthusiast.</b> </h3>
+<h1 align="center">Hey Data Enthusiasts!!! I'm Shebin Shammy👋</h1>
+<h3 align="center"> <b> A passionate Data Science enthusiast.</b> </h3>
 
 
 - 🔭 I’m currently embarking on **a transformative journey into the realm of Data Science.**
